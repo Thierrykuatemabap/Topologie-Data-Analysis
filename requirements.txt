@@ -1,0 +1,18 @@
+# Dependency inventory from notebook imports; full compatibility validation pending.
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+networkx
+seaborn
+plotly
+gudhi
+giotto-tda
+kmapper
+umap-learn
+rdkit
+toponetx
+ripser
+persim
+notebook
